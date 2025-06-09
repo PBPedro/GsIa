@@ -80,7 +80,6 @@ O projeto foi dividido nas seguintes etapas:
 
 ## 📦 Tecnologias Utilizadas
 
-- **Linguagem:** Python 3  
 - **Bibliotecas:**  
   - pandas  
   - matplotlib  
